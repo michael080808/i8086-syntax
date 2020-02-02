@@ -1,0 +1,7 @@
+.vscode/
+snippets/
+syntaxes/
+.vscodeignore
+language-configuration.json
+package.json
+vsc-extension-quickstart.md
